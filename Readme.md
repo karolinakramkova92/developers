@@ -21,7 +21,7 @@ In the following sections, we'll try to answer frequently asked question that we
 - [Teamwork](#teamwork) - how do we cooperate.
 - [Job](#job) - offices, working hours, salaries.
 - [Students](#students) - part-time opportunities for students.
-- [Relocation](#relocation) - for non Czech-based candidates.
+- [International Relocation](#relocation) - for non Czech-based candidates.
 
 <a name='product'/>
 
@@ -91,10 +91,10 @@ In the following sections, we'll try to answer frequently asked question that we
 - **Do you provide any support for students?** Because Mews development team was founded by a group of students that met in school and were still studying, we know what it means to both work and study. Therefore we're OK with you having a month break during exam periods, so that you can prepare for the exams. Students also have lot of time flexibility because of their school schedules. And since we have graduates from both of the aforementioned schools in our team, we can also help with the studying.
 - **Can I do a bachelor or master thesis for Mews?** Definitely, we have many ideas that are appropriate either for bachelor or master theses. Just reach out to us and we can discuss the possibilities.
 
-<a name='relocation'/>
+<a name='international relocation'/>
 
-### ✈️ Relocation
+### ✈️ International Relocation
 
-- **What is the cost of living in Prague?** You can find it and compare with other cities at https://www.numbeo.com/cost-of-living/in/Prague.
-- **How long does it take to relocate?** Unfortunately, it takes a lot of time; usually around 6 months. First, we must submit the job posting announcing your position to the Czech Labour office, where it must be pending publicly for 30 days for potential employees. After that, the paperwork is processed, and both governments have 30-60 days to finish the procedure. Regrettably, these offices like to take their time and therefore, it is difficult to give an exact estimate about how long it takes from start to finish.
-- **Do you offer relocation packages?** Yes, we will support you with the relocation both from the organizational and administrative perspective, but also from the financial perspective.
+While we welcome everyone from everywhere and strive for the best talent there is, we consider many factors when hiring, including relocation requirements and their feasibility in individual cases. We’re open-minded, but keep in mind that not every position is practical for every person.
+If, during the interviews, your skills are recognized as required in a specific Mews location, we'll offer support in getting the immigration and settling in the given country sorted. We'll assess your needs to customize the relocation package accordingly.
+How long does it take to relocate? The most time-consuming and administration-heavy part is the immigration. Mews works with local immigration lawyers to make sure the process is smooth and guided compliantly at every step. Still, it may take up to 6 months before your journey with Mews can start. Many aspects impact the timelines, so we always provide the best time estimate after assessing the individual circumstances of each talent.
